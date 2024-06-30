@@ -1,0 +1,30 @@
+{
+  "name": "Room-allocation",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.4",
+    "react": "^18",
+    "react-dom": "^18",
+    "styled-components": "^6.1.11",
+    "styled-system": "^5.1.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "@types/styled-components": "^5.1.34",
+    "@types/styled-system": "^5.1.22",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.4",
+    "style-loader": "^4.0.0",
+    "stylelint": "^16.6.1",
+    "typescript": "^5"
+  }
+}
